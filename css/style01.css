@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    width: 800px;
+    height: 800px;
+}
+
+main{
+    width: 800px;
+    height: 800px;
+    background: black;
+    opacity: 0.5;
+}
+
+.block{
+    float:left;
+}
+
+#block-01{
+    height: 90px;
+    width: 790px;
+    background: blue;
+    margin: 4px;
+}
+
+#block-02{
+    height:692px;
+    width:282px;
+    background:white;
+    margin: 4px;
+    
+}
+
+#block-03{
+    height: 342px;
+    width: 500px;
+    margin: 4px;
+    background: yellow;
+}
+
+#block-04{
+    height: 342px;
+    width: 500px;
+    margin: 4px;
+    background: white;
+}
